@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": "2",
+    "type": "course",
+    "attributes": {
+      "name": "Fundamentos de desarrollo web",
+      "slug": "fundamentos-de-desarrollo-web",
+      "description": "<h1>Quamquam id quidem, infinitum est in hac urbe;</h1>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duo Reges: constructio interrete. Qui autem esse poteris, nisi te amor ipse ceperit? <a href=\"http://loripsum.net/\" target=\"_blank\">Nunc haec primum fortasse audientis servire debemus.</a> Collige omnia, quae soletis: Praesidium amicorum. Ne discipulum abducam, times. Nunc omni virtuti vitium contrario nomine opponitur. </p>\r\n\r\n<p>Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Nescio quo modo praetervolavit oratio. <code>Quis enim redargueret?</code> <code>Quid dubitas igitur mutare principia naturae?</code> <a href=\"http://loripsum.net/\" target=\"_blank\">Dulce amarum, leve asperum, prope longe, stare movere, quadratum rotundum.</a> Illum mallem levares, quo optimum atque humanissimum virum, Cn. Etsi ea quidem, quae adhuc dixisti, quamvis ad aetatem recte isto modo dicerentur. <a href=\"http://loripsum.net/\" target=\"_blank\">Multoque hoc melius nos veriusque quam Stoici.</a> Quid de Pythagora? Quid igitur, inquit, eos responsuros putas? Nihil opus est exemplis hoc facere longius. Sed eum qui audiebant, quoad poterant, defendebant sententiam suam. </p>\r\n\r\n<pre>Sed in ceteris artibus cum dicitur artificiose, posterum\r\nquodam modo et consequens putandum est, quod illi\r\n§pigennhmatikÒn appellant;\r\n\r\nQuoniamque non dubium est quin in iis, quae media dicimus,\r\nsit aliud sumendum, aliud reiciendum, quicquid ita fit aut\r\ndicitur, omne officio continetur.\r\n</pre>\r\n\r\n\r\n<ul>\r\n\t<li>At modo dixeras nihil in istis rebus esse, quod interesset.</li>\r\n\t<li>Et nunc quidem quod eam tuetur, ut de vite potissimum loquar, est id extrinsecus;</li>\r\n\t<li>Sumenda potius quam expetenda.</li>\r\n\t<li>Non enim, si omnia non sequebatur, idcirco non erat ortus illinc.</li>\r\n\t<li>Illum mallem levares, quo optimum atque humanissimum virum, Cn.</li>\r\n\t<li>At ego quem huic anteponam non audeo dicere;</li>\r\n\t<li>Si ad corpus pertinentibus, rationes tuas te video compensare cum istis doloribus, non memoriam corpore perceptarum voluptatum;</li>\r\n</ul>\r\n\r\n\r\n<p>Hoc enim identidem dicitis, non intellegere nos quam dicatis voluptatem. Itaque nostrum est-quod nostrum dico, artis est-ad ea principia, quae accepimus. <a href=\"http://loripsum.net/\" target=\"_blank\">Utilitatis causa amicitia est quaesita.</a> Quam ob rem tandem, inquit, non satisfacit? Sed plane dicit quod intellegit. Indicant pueri, in quibus ut in speculis natura cernitur. Quamvis enim depravatae non sint, pravae tamen esse possunt. </p>\r\n\r\n",
+      "enabled": true,
+      "difficulty": "beginner",
+      "tag_list": [
+        "GIT",
+        "Terminal",
+        "CSS",
+        "HTML"
+      ],
+      "cover": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80"
+    }
+  },
+  "included": [
+    {
+      "id": "1",
+      "type": "syllabus_item",
+      "attributes": {
+        "name": "Construye una página web básica utilizando HTML y CSS."
+      }
+    },
+    {
+      "id": "2",
+      "type": "syllabus_item",
+      "attributes": {
+        "name": "Diseña sitios responsivos."
+      }
+    },
+    {
+      "id": "3",
+      "type": "syllabus_item",
+      "attributes": {
+        "name": "Versiona y respalda tu progreso con Git."
+      }
+    },
+    {
+      "id": "4",
+      "type": "syllabus_item",
+      "attributes": {
+        "name": "Muestra tus avances con Github Pages"
+      }
+    }
+  ]
+}
